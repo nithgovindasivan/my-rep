@@ -1,2 +1,2 @@
 # my-rep
-my repository
+this is my repository
